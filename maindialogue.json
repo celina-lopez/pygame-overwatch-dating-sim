@@ -1,0 +1,126 @@
+{
+  "introduction": [
+    {
+      "Background": "casual",
+      "SettingText":["You woke up in a cold state, this is the intro texts maybe make this optional as well makdsfj;a adjkfa ajsf;kj akljf;kl jtest", "Looks like someone is coming"],
+      "Character": {
+        "Mercy1":["Mercy","Normal", "Heroes never die!", "oh hi! didn't see you there",
+          "um, are you the new recruit?"],
+        "Unknown1":["Unknown","Default", "Yes"],
+        "Mercy2":["Mercy","Normal","Oh, what's your name darling?"],
+        "Unknown2":["Unknown","Default", "ENTER NAME"],
+        "Mercy3":["Mercy","Normal","Oh nice to meet you *!",
+          "Well, are you ready for battle?"]
+      },
+      "Button": [
+        "Yes!",
+        "Of course I am sweetheart",
+        "Not really"
+      ],
+      "Endings": {
+        "Good": {
+          "Character": {
+            "Unknown3":["Unknown","Default","Yes, I will show them no MERCY!"],
+            "Mercy4":["Mercy","Badass","Haha! Right you will!"],
+            "Mercy5":["Mercy","Badass", "I will be taking care of you"]
+            
+          }},
+          "Bad": {
+            "Character": {
+              "Unknown3":["Unknown","Default","Of course, I am sweetheart. You don't have to worry."],
+              "Mercy4":["Mercy","Angry", "...","Just stay alive, I have to keep everyone safe"]
+            }
+          },
+            "Neutral": {
+              "Character": {
+                "Unknown3":["Unknown","Default","I'm scared"],
+                "Mercy4":["Mercy","Badass","ever more reason to fight"],
+                "Mercy5":["Mercy","Badass","We can't be scared any longer, lets go!"]
+              }
+            }
+      }
+    }
+  ],
+  "1":[
+    {
+      "Background": "kingsrow",
+      "Character": {
+        "Nava1":["Nava","Default", "hello darlings",
+          "um, are you the new recruit?"],
+        "Unknown1":["Unknown","Default", "Yes"],
+        "Mercy2":["Mercy","Default","Oh, what's your name darling?"],
+        "Unknown2":["Unknown","Default", "lolz"],
+        "Mercy3":["Mercy","Default","Oh nice to meet you *!",
+          "Well, are you ready for battle?"]
+      },
+      "Button": [
+        "Yeasdfadss!",
+        "Of course I am sweethasdfadsfeart",
+        "Not reasdfasy"
+      ],
+      "Endings": {
+        "Good": {
+          "Character": {
+            "Unknown3":["Unknown","Default","Yes, I will show them no MERCY!"],
+            "Mercy4":["Mercy","Default","Haha! Right you will!"],
+            "Mercy5":["Mercy","Default", "I will be taking care of you"]
+
+          }},
+          "Bad": {
+            "Character": {
+              "Unknown3":["Unknown","Default","Of course, I am sweetheart. You don't have to worry."],
+              "Mercy4":["Mercy","Default", "...","Just stay alive, I have to keep everyone safe"]
+            }
+          },
+            "Neutral": {
+              "Character": {
+                "Unknown3":["Unknown","Default","I'm scared"],
+                "Mercy4":["Mercy","Default","ever more reason to fight"],
+                "Mercy5":["Mercy","Default","We can't be scared any longer, lets go!"]
+              }
+            }
+      }
+    }
+  ],
+  "2":[
+    {
+      "Background": "default",
+      "Character": {
+        "Nava1":["Nava","Default", "hello im back bitches",
+          "so when we going to Loft?", "I just really want to go to san jose to party"],
+        "Unknown1":["Unknown","Default", "Yes"],
+        "Mercy2":["Mercy","Default","Oh, what's your name darling?"],
+        "Unknown2":["Unknown","Default", "lolz"],
+        "Mercy3":["Mercy","Default","Oh nice to meet you *!",
+          "Well, are you ready for battle?"]
+      },
+      "Button": [
+        "Yeasdfadss!",
+        "Of course I am sweethasdfadsfeart",
+        "Not reasdfasy"
+      ],
+      "Endings": {
+        "Good": {
+          "Character": {
+            "Unknown3":["Unknown","Default","Yes, I will show them no MERCY!"],
+            "Mercy4":["Mercy","Default","Haha! Right you will!"],
+            "Mercy5":["Mercy","Default", "I will be taking care of you"]
+
+          }},
+          "Bad": {
+            "Character": {
+              "Unknown3":["Unknown","Default","Of course, I am sweetheart. You don't have to worry."],
+              "Mercy4":["Mercy","Default", "...","Just stay alive, I have to keep everyone safe"]
+            }
+          },
+            "Neutral": {
+              "Character": {
+                "Unknown3":["Unknown","Default","I'm scared"],
+                "Mercy4":["Mercy","Default","ever more reason to fight"],
+                "Mercy5":["Mercy","Default","We can't be scared any longer, lets go!"]
+              }
+            }
+      }
+    }
+  ]
+}
