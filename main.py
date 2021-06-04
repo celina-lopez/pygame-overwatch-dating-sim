@@ -316,9 +316,9 @@ def action_json(scene):
             if line == "ENTER NAME":
                 mc = gameSlide(background_dictionary["casual"], "Mercy", "Default", "ENTER NAME")
             else:
-                if line in sound_dictionary:
-                    mixer.music.load(sound_dictionary[line])
-                    mixer.music.play()  
+                # if line in sound_dictionary:
+                #     mixer.music.load(sound_dictionary[line])
+                #     mixer.music.play()  
                 texts = []
                 for letter in line:
                     if letter == "*":
